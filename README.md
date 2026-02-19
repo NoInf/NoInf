@@ -21,8 +21,7 @@ I build things that sit at the intersection of **software engineering** and **bu
 
 -  Final year — graduating July 2026
 -  Dissertation: *Perceived vs. Actual Value of Personal Data* — exploring what young adults know about the information they share online
--  Building tools that use AI backends (Claude, GPT, Perplexity) to automate research and writing workflows
--  [almohannaihsan.com](https://almohannaihsan.com) — portfolio coming soon 
+-  [almohannaihsan.com](https://almohannaihsan.com) — portfolio coming soon
 
 ###  Highlights
 
